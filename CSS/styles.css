@@ -120,7 +120,7 @@ hr{
     }
     .btn:hover {
         background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
-        background-color:#0688fa;
+        background-color:#39dacc;
     }
     .btn:active {
         position:relative;
@@ -144,4 +144,12 @@ hr{
   font-family: 'Fira Sans', sans-serif;
   text-decoration: none;
   line-height: 4;
+}
+.footer-link:hover{
+    color: #eae5ea;
+}
+.copyright{
+    font-size: 0.75rem;
+    color: #eaf6f6;
+    padding: 20px 0;
 }
